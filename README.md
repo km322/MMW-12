@@ -5,5 +5,5 @@
 <br />
 <div align="center">
   <a href="https://github.com/km322/HITO-136">
-    <img src="https://assets.editorial.aetnd.com/uploads/2009/11/slavery-in-america-gettyimages-464757479.jpg" alt="Logo" width="960" height="540">
+    <![alt text](https://github.com/km322/HITO-136/blob/d93cf553fd543e72926823d2fd093c061dfed95b/Images/%22DALL_E%202023-09-15%2020.38.13.png?raw=true)">
   </a>
