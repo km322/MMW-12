@@ -5,5 +5,5 @@
 <br />
 <div align="center">
   <a href="https://github.com/km322/HITO-136">
-    <![alt text](https://github.com/km322/HITO-136/blob/d93cf553fd543e72926823d2fd093c061dfed95b/Images/%22DALL_E%202023-09-15%2020.38.13.png?raw=true)">
+    <img src="(https://roosevelt.ucsd.edu/_images/mmw%20pic.jpeg)https://roosevelt.ucsd.edu/_images/mmw%20pic.jpeg" alt="Logo" width="960" height="540">
   </a>
