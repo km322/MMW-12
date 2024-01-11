@@ -29,4 +29,5 @@ New Slide:
 - Alexander takes the throne, and everyone rebels and he deals with rivals and quells rebellions
 - Before Phillip II's death, he plans the invasion of Persia, disputes over Greek polises under Persian control, and Alexander takes up the task.
 
-https://albertis-window.com/wp-content/uploads/2017/05/Battle_of_Issus-Alexander-Mosaic.jpg
+img src="https://albertis-window.com/wp-content/uploads/2017/05/Battle_of_Issus-Alexander-Mosaic.jpg" alt="Logo" width="960" height="540"
+
