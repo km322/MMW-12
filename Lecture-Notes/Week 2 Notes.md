@@ -38,3 +38,14 @@ Marcus Tullius Cicero is a staunch Optimate and helps Pompey gain power.
 
 Julius Caesar wants to become glorious and gain power by fighting more wars. 
 
+Caesar as consul tries to get all their deals done but his co-consul, Bibulus, uses his veto to prevent things from being passed. Caesar then forces him to retire by kicking him out and threatening to kill him. 
+
+The "Consulship of Julius and Caesar" begins and everyone gets what they want. 
+
+Crassus dies in the East, Caeser is in Gaul, and Pompey stays in Rome which makes Caesar annoyed. 
+
+Gaius Julius Caesar was from an elite family and he took up Marius' ideas. 
+
+He advertises his heroic actions and he wants to be seen as forgiving, the man of the people, and someone who works hard. 
+
+When Caesar comes back to Rome, the Senate wants to cut his power, but Caesar is scared so he brings back his army with him. 
