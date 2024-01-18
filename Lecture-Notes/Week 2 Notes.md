@@ -48,4 +48,10 @@ Gaius Julius Caesar was from an elite family and he took up Marius' ideas.
 
 He advertises his heroic actions and he wants to be seen as forgiving, the man of the people, and someone who works hard. 
 
-When Caesar comes back to Rome, the Senate wants to cut his power, but Caesar is scared so he brings back his army with him. 
+When Caesar comes back to Rome, the Senate wants to cut his power, but Caesar is scared so he brings back his army with him.
+
+### MMW-12 Lecture 4 Notes
+The rhetoric of Continuity?
+
+I dont wanna take notes today so no notes
+
