@@ -1,6 +1,33 @@
 ## MMW-12 Week 2 Notes
 ### MMW-12 Lecture 5
-- Skipped Because I was doing lecture
+- I skipped it because I was doing the essay.
 
 ### MMW-12 Lecture 6
-#### The Ancient Economy in Comparative Perspective. 
+
+#### The Ancient Economy in Comparative Perspective:
+
+##### What is Economic History?:
+- Labor:
+  - Wage vs. Slave (and lots of in-between)
+- Production:
+  -  Control of materials, labor, and capital
+- Capital and wealth:
+  - Value
+  - Money and Price
+- Trade, exchange, distribution:
+  - Markeys
+  - Transportation and trade
+- Political economy:
+  - States vs. individual economic actors
+ 
+##### The Political View of the Two Hans:
+- Western Han:
+  - Strong centralization and consolidation rule
+  - Debt to Legalist force on agricultural and mulitary
+  - Heavy tax extraction for military
+- Eastern Han:
+  - Decentralization and weak emperors
+  - Growth of large and unchecked landhokders
+    - Control over increasingly impoverished peasantry
+    - Decline of social mobility
+  - Weak tax extraction
