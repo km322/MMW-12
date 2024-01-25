@@ -47,4 +47,14 @@
 - Wealthy merchants register as landowners to avoid taxes.
 - "At Present merchants are rich and honored although they are humbled by the law; farmers are poor and lowly although they are respected by the law." - Han Shu 24a, p.1133.
 
-#####
+##### The Industrial Economies:
+- The public/private tension:
+  - Centralization/Decentralization tug-of-war extends to the manufacture and sale of core industries.
+- The industrial economy:
+  - salt
+  - iron
+- The luxury economy:
+  - Imperial workshops make luxury goods like mirrors and vessels.
+  - Also site of manufacture for weapons and other essential goods.
+
+##### 
