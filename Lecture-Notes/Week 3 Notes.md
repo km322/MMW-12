@@ -40,4 +40,11 @@
   - Fundamentally disrupted by the great estates
 - Land Ownership:
   - Both private and state-controlled lands
-  - State lands either cultivated by state-owned slaves or leased to peasants. 
+  - State lands either cultivated by state-owned slaves or leased to peasants.
+
+##### The Merchant/Farmer Preadox:
+- Compulsory payment in money forced farmers to take high-interest loans from local merchants to pay taxes, increasing effective tax burdens.
+- Wealthy merchants register as landowners to avoid taxes.
+- "At Present merchants are rich and honored although they are humbled by the law; farmers are poor and lowly although they are respected by the law." - Han Shu 24a, p.1133.
+
+#####
