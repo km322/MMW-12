@@ -32,7 +32,7 @@
     - Decline of social mobility
   - Weak tax extraction
 
-##### The Rural Economy:
+##### The Rural Economy: ⤵️
 - The Hamlet:
   - 100 families of small landholders.
   - Building block and ideological core of Han society.
@@ -42,12 +42,12 @@
   - Both private and state-controlled lands
   - State lands either cultivated by state-owned slaves or leased to peasants.
 
-##### The Merchant/Farmer Preadox:
+##### The Merchant/Farmer Preadox: 🧑‍🌾
 - Compulsory payment in money forced farmers to take high-interest loans from local merchants to pay taxes, increasing effective tax burdens.
 - Wealthy merchants register as landowners to avoid taxes.
 - "At Present merchants are rich and honored although they are humbled by the law; farmers are poor and lowly although they are respected by the law." - Han Shu 24a, p.1133.
 
-##### The Industrial Economies:
+##### The Industrial Economies: 🤓
 - The public/private tension:
   - Centralization/Decentralization tug-of-war extends to the manufacture and sale of core industries.
 - The industrial economy:
@@ -57,13 +57,13 @@
   - Imperial workshops make luxury goods like mirrors and vessels.
   - Also site of manufacture for weapons and other essential goods.
 
-##### Background on the Discourse Salt and Iron:
+##### Background on the Discourse Salt and Iron: 😥
 - Two interrelated problems:
   1. Wars impoverished the state
   2. Private manufacturers and merchants lead to price fluctuation and price gouging for essential goods.
 - Proposed state monopoly on the sale of iron and salt (and, briefly, liquor).
 
-##### Discourse on Salt and Iron:
+##### Discourse on Salt and Iron: 🧂
 1. The monopolies created under Emperor Wu continued after his death
 2. The next regent, Huo Guang, feels increasing pressure from elite families who resent the monopoly.
 3. He calls a summit of scholars who fall into two groups:
@@ -91,3 +91,15 @@
     2. Supply the army
     3. Mine minerals
     4. Rebuild temples and public buildings
+
+##### Welfare Economics:
+- Bread and circuses:
+  - Price regulations of grain to reduce price-gouging in famine
+  - 200,000 tons of wheat per year for Rome alone
+- Philanthropy and its discontents:
+  - Elite competitions and splashy philanthropy:
+    - Sponsorship of public works
+    - Risk of "style over substance"
+- The "Guild"
+  - Grey area of business and government
+  - Key for emperor's control of Rome. 
