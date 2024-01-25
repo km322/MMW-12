@@ -23,11 +23,21 @@
 ##### The Political View of the Two Hans:
 - Western Han:
   - Strong centralization and consolidation rule
-  - Debt to Legalist force on agricultural and mulitary
+  - Debt to Legalist force on agricultural and military
   - Heavy tax extraction for military
 - Eastern Han:
   - Decentralization and weak emperors
-  - Growth of large and unchecked landhokders
-    - Control over increasingly impoverished peasantry
+  - Growth of large and unchecked landholders
+    - Control over the increasingly impoverished peasantry
     - Decline of social mobility
   - Weak tax extraction
+
+##### The Rural Economy:
+- The Hamlet:
+  - 100 families of small landholders.
+  - Building block and ideological core of Han society.
+  - A site of contact between the local and the state.
+  - Fundamentally disrupted by the great estates
+- Land Ownership:
+  - Both private and state-controlled lands
+  - State lands either cultivated by state-owned slaves or leased to peasants. 
