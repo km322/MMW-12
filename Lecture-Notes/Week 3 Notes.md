@@ -74,7 +74,7 @@
 - Core Similarities:
   - State revenues streams:
     - Olive oil industry and imperial estates
-    - State control (by not monopoly) od mines
+    - State control (by not monopoly) of mines
   - Price controls:
     - Securing the grain supply for Rome
   - International trade:
@@ -82,4 +82,12 @@
   - Infrastructure:
     - Support for inter-city and inter-province movement of goods. 
 
-##### 
+##### Ancient Corporations:
+- The Public/Private Partnership:
+  - Corporations (Rome) vs. Bureaucracy (Han)
+  - The "government contract" executed by public contractors (_societas publicanorum_)
+  - Private companies help:
+    1. Collect taxes
+    2. Supply the army
+    3. Mine minerals
+    4. Rebuild temples and public buildings
