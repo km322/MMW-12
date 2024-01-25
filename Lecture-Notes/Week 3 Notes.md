@@ -57,4 +57,17 @@
   - Imperial workshops make luxury goods like mirrors and vessels.
   - Also site of manufacture for weapons and other essential goods.
 
+##### Background on the Discourse Salt and Iron:
+- Two interrelated problems:
+  1. Wars impoverished the state
+  2. Private manufacturers and merchants lead to price fluctuation and price gouging for essential goods.
+- Proposed state monopoly on the sale of iron and salt (and, briefly, liquor).
+
+##### Discourse on Salt and Iron:
+1. The monopolies created under Emperor Wu continued after his death
+2. The next regent, Huo Guang, feels increasing pressure from elite families who resent the monopoly.
+3. He calls a summit of scholars who fall into two groups:
+   - Reformists: suggest a dialing back of state intervention in the economy.
+   - Modernists: defend the state monopolies.
+
 ##### 
