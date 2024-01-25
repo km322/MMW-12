@@ -105,6 +105,21 @@
   - Key for emperor's control of Rome. 
 
 ![Silk Road](https://static.scientificamerican.com/sciam/cache/file/12591150-CA74-4395-994809448B131030_source.jpg?w=1200)
-__Silk Road__
+__Silk Road 🗺️__
 
-#####
+##### Luxury Problems
+- Takeaways:
+  - Risks of alienation from ideal social type
+  - Rify with past
+  - Inversion of social order
+    - slaves
+    - free nobles
+    - kings
+  - Nice/Luxurt connections: focus on bad habits come with riches
+
+##### Slavery and Coerced Labor:
+- Modes of Unfree Labor:
+  - Chattel Slavery
+  - debt Slavery
+  - Corvee
+  - Sharecropping
