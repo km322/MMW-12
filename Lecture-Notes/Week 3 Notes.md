@@ -70,4 +70,16 @@
    - Reformists: suggest a dialing back of state intervention in the economy.
    - Modernists: defend the state monopolies.
 
+##### Like Han, like Rome
+- Core Similarities:
+  - State revenues streams:
+    - Olive oil industry and imperial estates
+    - State control (by not monopoly) od mines
+  - Price controls:
+    - Securing the grain supply for Rome
+  - International trade:
+    - Large-scale, long-distance trade for luxury goods
+  - Infrastructure:
+    - Support for inter-city and inter-province movement of goods. 
+
 ##### 
