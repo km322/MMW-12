@@ -103,3 +103,8 @@
 - The "Guild"
   - Grey area of business and government
   - Key for emperor's control of Rome. 
+
+![Silk Road](https://static.scientificamerican.com/sciam/cache/file/12591150-CA74-4395-994809448B131030_source.jpg?w=1200)
+__Silk Road__
+
+#####
