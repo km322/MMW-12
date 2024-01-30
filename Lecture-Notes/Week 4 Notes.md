@@ -40,9 +40,20 @@
 - Polytheism
   - Multiple gods with local affiliations
   - "Spheres" of influence
-    - Commerce, the arts, wine nd festival, the home
+    - Commerce, the arts, wine and festivals, the home
 - Anthropomorphism
   - Gods in human forms
   - Gods as emotional, interested in sex
-  - Gods "born" with parents, but ageless. 
+  - Gods "born" with parents, but ageless.
+ 
+### "Normative" Roman Religion
+- Sacrifice and propitiation
+  - Food, things, animals
+- Ancestors
+  - Dead emperors as gods who received worship
+  - Remember "Julius Caesar" divinization
+- Prayers
+  - Verbal prayers to gods
+  - "Occasional" prayers for healing, rescue, thanksgiving. 
 
+### 
