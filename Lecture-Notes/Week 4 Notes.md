@@ -36,7 +36,7 @@
     - Representative of people in key rites
     - Mixes meaning of di ("thearch," "emperor," "divine")
 
-### Rome: Percy Jackson Style
+### Rome: Percy Jackson Style:
 - Polytheism
   - Multiple gods with local affiliations
   - "Spheres" of influence
@@ -46,7 +46,7 @@
   - Gods as emotional, interested in sex
   - Gods "born" with parents, but ageless.
  
-### "Normative" Roman Religion
+### "Normative" Roman Religion:
 - Sacrifice and propitiation
   - Food, things, animals
 - Ancestors
@@ -56,4 +56,61 @@
   - Verbal prayers to gods
   - "Occasional" prayers for healing, rescue, thanksgiving. 
 
-### 
+### The Politics of Religion:
+- Augustan "Propaganda"
+  - Augustus and Jupiter parallelism
+  - Venus the "Mother" Genetrux and the Julius Caesar lineage
+  - Mars the "Avenger" Ultor and Augustus vengeance for his father's assassination
+  - Apollo of the Palatine Hill (Palatinus) and Augustus as patron of the arts
+  - "Deified Julius"
+
+### Cult as Local Religion:
+- Local cult
+   - Regional gods worshiped in each hamlet's altar
+   - Regional religious festivals
+- Religion and the natural environment
+  - Shan Hai Jing ("Classic of Mountains and Seas")
+  - Religious geography and the mythologization of place
+  - Gods, spirits, and beasts tied to a "religious landscape"
+  
+### Shamans and Other Experts:
+- Religious expertise
+  - Wu ("Shamans") as religious experts
+    - Go-between for spirit worlds
+    - Tie into the religious landscape of "Class of the Mountains and the Sea"
+    - Role in healing sickness
+    - ... in ending drought
+- Shamans as dangerous
+  - State suppression of shamans
+  - Communal importance and ties to Daoist religion, but tension with state Confucianism.
+
+### Cult, Death, Afterlife:
+- Cult and facing death
+  - The quest for immortality
+  - Paradise
+  - "Soteriology"
+  - Cult and class
+- Queen Mother of the West
+  - Savior figure
+  - Presides over palace in the realm of dead, in West
+  - Token (or peach) through which immortality is conferred (with Daoist connections)
+  - Attention paid to her support of sovereigns (but also commoners)
+ 
+### Daoist religion:
+- Back to the Religion/{hilophy debate
+  - Daoism longstanding philosophical framework for existing in accordance with Dao via Wu Wei
+  - Like Confucianism, concerned with universes origins and continued framework
+  - Close connection to immortality, shamanism, alchemy
+
+### Mithraism:
+- Offshoot of Persian religion
+- Roman Form:
+  - Solar god instructs Mithras to sacrifice a sacred bull.
+  - Bull's blood is the source of the created world
+  - Eternal conflict of good vs evil
+- Followed cult pattern:
+  - Several grades of initiation
+  - Mystery cult, initiates sworn to secrecy
+  - Ritual reenactment of mythic foundation in sacred temples
+  - Banqueting as communal self-expression.
+ 
