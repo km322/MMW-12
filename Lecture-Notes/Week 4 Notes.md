@@ -98,8 +98,8 @@
  
 ### Daoist religion:
 - Back to the Religion/{hilophy debate
-  - Daoism longstanding philosophical framework for existing in accordance with Dao via Wu Wei
-  - Like Confucianism, concerned with universes origins and continued framework
+  - Daoism's longstanding philosophical framework for existing in accordance with Dao via Wu Wei
+  - Like Confucianism, concerned with the universe's origins and continued framework
   - Close connection to immortality, shamanism, alchemy
 
 ### Mithraism:
@@ -114,3 +114,26 @@
   - Ritual reenactment of mythic foundation in sacred temples
   - Banqueting as communal self-expression.
  
+### List Cult and the Exoticism Issue:
+- Another key Roman cult:
+  - Revived from Egyptian religion and Hellenistic cultural mixture
+  - Centralizes the goddess Isis, her spouse Osis
+  - Temples extent in Pompei:  Roses
+- Cultural difference:
+  - Initiative your touyche osidfusajiofaj
+  - sbnm,cdbjkl
+
+### Skipped this slide
+
+### Buddhism: First Traces:
+- Introduction of Buddhism of this period:
+  - A series of semi-mythic "bringers of Buddhism"
+    - Mouzi, a Confucian convert to Buddhism
+      - Dialogue between Mouzi and a critic on practicing Buddhism in China
+    - An Shigao
+      - Parthian who renounced the throne to serve as a Buddhist missionary in China
+      - Translated Buddhist texts into Chinese
+- Buddhism as "dangerous"
+  - Focus on the individual produces tension with Confuciansm's emphasis on the social.
+ 
+### SKIP THIS SLIDE BECAUSE I CANNOT CARE 
