@@ -136,4 +136,6 @@
 - Buddhism as "dangerous"
   - Focus on the individual produces tension with Confuciansm's emphasis on the social.
  
-### SKIP THIS SLIDE BECAUSE I CANNOT CARE 
+### SKIP THIS SLIDE BECAUSE I CAN'T CARE 
+
+## MMW-12 Lecture 8
